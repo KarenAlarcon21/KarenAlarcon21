@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Karen Alarcón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=250px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnphamQwZHhyNXU2NGdyN3UyZzRxZ3p6dW9qdnJ0NzZjcDV5MXE3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 <h2>About me:</h2>
-I am a Data Systemization Technology student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development, and I seek to bring order, visual clarity, and commitment to the development team.
-- ✨ I’m a curious and detail-oriented person.
-- 👁️ I'm very visual person, I tend to be very observant and analytical.
-- 🗣️ I am very good at teamwork and communication.
-- 👯 I’m looking forward to collaborate on open source projects.
+I am a Data Systemization Technology student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development, and I seek to bring order, visual clarity, and commitment to the development team.<br><br>
+- ✨ I’m a curious and detail-oriented person.<br>
+- 👁️ I'm very visual person, I tend to be very observant and analytical.<br>
+- 🗣️ I am very good at teamwork and communication.<br>
+- 👯 I’m looking forward to collaborate on open source projects.<br>
 - ✔ Ask me about anything, I am happy to help<br>
-- 👩🏽‍💻 I'm specially focused on web programming and design, and relational databases. 
-- Outside tech, 🎬 I love seen movies and series, 🎮 playing videogames and 🎵 listening to music.
+- 👩🏽‍💻 I'm specially focused on web programming and design, and relational databases. <br>
+- Outside tech, 🎬 I love seen movies and series, 🎮 playing videogames and 🎵 listening to music.<br>
 - 📫 Reach out to me at: <a href="kada2021257@gmail.com">kada2021257@gmail.com</a>
 
 ## My Skills Include
