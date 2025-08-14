@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Karen Alarcón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
 <img align="right" width=220px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnphamQwZHhyNXU2NGdyN3UyZzRxZ3p6dW9qdnJ0NzZjcDV5MXE3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-I am a Data Systemization Technology student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development, and I seek to bring order, visual clarity, and commitment to the development team.<br>
+I am a Data Systemization Technology student, currently finishing my degree. I am expanding my knowledge in both front-end and back-end development, and I seek to bring order, visual clarity, and commitment to the development team.<br><br>
 - ✨ I’m a curious and detail-oriented person.<br>
 - 👁️ I'm very visual person, I tend to be very observant and analytical.<br>
 - 🗣️ I'm very good at teamwork and communication.<br>
